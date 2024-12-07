@@ -1,0 +1,8 @@
+In 8th grade I wrote a letter to my future self, and decided to create an encoded message to myself on the back with a cypher that I made up as a variation on a caesar cipher where instead of shifting by a fixed amount, 
+the amount shifted changed based on a key, which was it's own seperate phrase. For my letter, which I should recieve in May when I graduate, I used a line from the Gentleman Bastards series. When I made this cipher I 
+decided that I wanted to try and create a program that would allow me to more easily encode and decode my messages. I tried to use a whole bunch of if statements to assign numerical values and other such nonsense, 
+since I had never programmed before outside of some simple blocks in the computer class at my middle school. This struggle led me to join teh programming subteam of my districts FRC Robotics team, in hopes of talking with 
+people who knew more about programming so I could make my own program. That never happened; I got so focused on robitics itself, the time never presented itself, and by my senior year, the only reason I recalled this idea
+was because I wanted to remember why I got into coding for an application essay I was writing for UIUC. While I was looking around at school for how to solve this project, I found out that the cipher I created was actually a 
+Vigenère cipher, which was created by a man who died before my great grandparents were even born. No original ideas am I right. When I got home I wrote this program swiftly, and now, about a month later, I am uploading to github 
+cause I figured I should remember where it all started, and allow me to spruce it up later if I am ever so inclined. 
